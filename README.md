@@ -42,3 +42,7 @@ npx playwright test --project=chromium
 View report:
 
 npx playwright show-report
+
+## Test Execution Screenshots
+
+Screenshots of successful test execution are available in the screenshots folder.
